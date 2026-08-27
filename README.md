@@ -46,8 +46,6 @@ In this project, I:
 
 The analysis provided a basic comparison of pollution readings across different monitoring locations and environmental parameters. It also helped identify high-value pollution readings, understand hourly variations, and generate a location-wise summary for potential environmental monitoring and dashboard development.
 
-> **Note:** The pollution thresholds used in this project are task-specific classification rules and should not be interpreted as official AQI or regulatory standards. Since the dataset contains multiple parameters with different units, aggregated pollution values should also be interpreted carefully.
-
 ## 📸 Project Screenshots
 
 ### Dataset Schema
