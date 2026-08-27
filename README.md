@@ -50,17 +50,24 @@ The analysis provided a basic comparison of pollution readings across different 
 
 ## 📸 Project Screenshots
 
-### Dataset Exploration
-![Dataset Exploration](images/01_dataset_schema.png)
+### Dataset Schema
+![Dataset Schema](images/01_dataset_schema.png)
 
-### Pollution Analysis
-![Pollution Analysis](images/02_average_location.png)
+### Unique Pollution Parameters
+![Unique Parameters](images/02_unique_parameters.png)
+
+### Average Pollution by Location
+![Average Pollution](images/03_average_location.png)
 
 ### Pollution Severity Classification
-![Pollution Severity](images/03_pollution_severity.png)
+![Pollution Severity](images/04_pollution_severity.png)
+
+### Statistical Summary
+![Statistical Summary](images/05_statistical_summary.png)
 
 ### Environmental Monitoring Report
-![Environmental Report](images/04_environmental_report.png)
+![Environmental Report](images/06_environmental_report.png)
+
 ## 📁 Repository Structure
 
 ```text
