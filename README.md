@@ -50,8 +50,17 @@ The analysis provided a basic comparison of pollution readings across different 
 
 ## 📸 Project Screenshots
 
-Screenshots of selected PySpark outputs from Google Colab are included in the `images/` folder to demonstrate the analysis and results.
+### Dataset Exploration
+![Dataset Exploration](images/01_dataset_schema.png)
 
+### Pollution Analysis
+![Pollution Analysis](images/02_average_location.png)
+
+### Pollution Severity Classification
+![Pollution Severity](images/03_pollution_severity.png)
+
+### Environmental Monitoring Report
+![Environmental Report](images/04_environmental_report.png)
 ## 📁 Repository Structure
 
 ```text
